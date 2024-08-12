@@ -1,0 +1,21 @@
+{
+  "name": "qld_adv",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@badeball/cypress-cucumber-preprocessor": "^20.1.1",
+    "@bahmutov/cypress-esbuild-preprocessor": "^2.2.2",
+    "cypress": "^13.13.2",
+    "esbuild": "^0.23.0"
+  },
+  "dependencies": {
+    "qld_adv": "file:"
+  }
+}
